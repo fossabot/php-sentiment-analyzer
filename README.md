@@ -5,6 +5,7 @@ PHP Sentiment Analyzer is a lexicon and rule-based sentiment analysis tool that 
 [![GitHub license](https://img.shields.io/github/license/davmixcool/php-sentiment-analyzer.svg)](https://github.com/davmixcool/php-sentiment-analyzer/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/davmixcool/php-sentiment-analyzer.svg)](https://github.com/davmixcool/php-sentiment-analyzer/issues)
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/davmixcool/php-sentiment-analyzer.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fdavmixcool%2Fphp-sentiment-analyzer)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmitmelon%2Fphp-sentiment-analyzer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmitmelon%2Fphp-sentiment-analyzer?ref=badge_shield)
 
 
 ## Requirements
@@ -50,6 +51,9 @@ print_r($result);
 
 This package is licensed under the [MIT license](https://github.com/davmixcool/php-sentiment-analyzer/blob/master/LICENSE).
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmitmelon%2Fphp-sentiment-analyzer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmitmelon%2Fphp-sentiment-analyzer?ref=badge_large)
+
 ### Reference
 
-Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014. 
+Hutto, C.J. & Gilbert, E.E. (2014). VADER: A Parsimonious Rule-based Model for Sentiment Analysis of Social Media Text. Eighth International Conference on Weblogs and Social Media (ICWSM-14). Ann Arbor, MI, June 2014.
